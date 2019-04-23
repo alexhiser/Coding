@@ -1,3 +1,4 @@
+/*Header Styles */
 * {
   font-size: 18px;
   font-family: "Georgia";
@@ -19,3 +20,19 @@ header {
   flex: 1;
   text-align: right;
 }
+/*End of Header Styles */
+
+/*Main Content Styles */
+main {
+  min-height:200px;
+  border: 1px solid black;
+}
+/*End of Main Content Styles */
+
+/*Footer Styles */
+footer {
+text-align: center;
+/*background image: background-image: url(../images/DSC_0025.jpg);*/
+}
+
+/*End of Footer Styles */
